@@ -11,7 +11,7 @@ export const getImageUrlSvg = path => {
 };
 
 export const ITEMS_GAME_URL =
-    "https://raw.githubusercontent.com//counter-strike-file-tracker/main/static/items_game.json";
+    "https://raw.githubusercontent.com/unqxl/counter-strike-file-tracker/main/static/items_game.json";
 
 export const IMAGES_BASE_URL =
     "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/";
